@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/blog`,
   siteMetadata: {
-    title: `Gatsby Starter Ulrich Anders`,
+    title: `VfB 03 Hilden e.V.`,
     description: `This is a starter that is used for teaching at the Cologne Business School.`,
     author: `Dr. Ulrich Anders`,
     version: "0.8.0",
@@ -57,7 +57,7 @@ module.exports = {
         background_color: `#343434`,
         theme_color: `#343434`,
         display: `minimal-ui`,
-        icon: `src/images/favicon.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/VfBHildenWappen.png`, // This path is relative to the root of the site.
       },
     },
     {

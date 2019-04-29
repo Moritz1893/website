@@ -5,7 +5,7 @@ import { Heading, Text } from "rebass"
 import Layout from "../components/Layout"
 import Section from "../components/Section"
 import SEO from "../components/SEO"
-import { H1, H3, P } from "../components/VerticalRhythm"
+import { H1, H2, H3, P } from "../components/VerticalRhythm"
 
 class BlogPage extends React.Component {
   render() {
@@ -20,7 +20,7 @@ class BlogPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <Section>
-          <H1>News</H1>
+          <H2>News</H2>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (

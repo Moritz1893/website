@@ -25,7 +25,7 @@ import Main from "../Main"
 import Footer from "../Footer"
 import Menu from "../Menu"
 import MenuItem from "../MenuItem"
-import imgLogo from "../../images/VfB Wappen.png"
+import imgLogo from "../../images/VfBHildenWappen.png"
 
 library.add(
   fab,
@@ -52,7 +52,7 @@ const Layout = ({ children }) => {
     <ThemeProvider theme={theme}>
       <Container>
         <Header>
-          <Logo to="/" text="VfB Stuttgart 1893" img={imgLogo} />
+          <Logo to="/" text="VfB 03 Hilden e.V." img={imgLogo} />
           <Menu>
             <MenuItem to="/">Home</MenuItem>
             <MenuItem to="/News/">News</MenuItem>
@@ -65,14 +65,14 @@ const Layout = ({ children }) => {
           <div>© Moritz Bausch</div>
           <Flex width={"3rem"} justifyContent="space-between">
             <a
-              href="https://twitter.com/"
+              href="https://www.instagram.com/vfb_hilden/"
               target="_blank"
               rel="noopener nofollow"
             >
-              <FontAwesomeIcon icon={["fab", "twitter-square"]} />
+              <FontAwesomeIcon icon={["fab", "instagram"]} />
             </a>
             <a
-              href="https://facebook.com/"
+              href="https://de-de.facebook.com/03Hilden/"
               target="_blank"
               rel="noopener nofollow"
             >

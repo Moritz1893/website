@@ -9,18 +9,18 @@ import RespGrid from "../components/RespGrid"
 
 const ImprintPage = () => (
   <Layout>
-    <SEO title="Imprint" />
+    <SEO title="Impressum" />
     <Section>
-      <H1>Imprint</H1>
+      <H1>Impressum</H1>
       <RespGrid min={"240px"}>
         <Box>
-          <H3>Responsible</H3>
+          <H3>Verantwortlich</H3>
           <P>
-            Dr. Ulrich Anders
+            Moritz Bausch
             <br />
-            {"<Address>"}
+            {"Dorothea-Erxleben Straße 31, 40721 Hilden"}
             <br />
-            {"<Email>"}
+            {"moritz.bausch@cbs-mail.de"}
           </P>
         </Box>
         <Box>
