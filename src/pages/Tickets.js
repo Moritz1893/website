@@ -27,7 +27,7 @@ const AboutPage = () => (
         </Box>
         <Box width={[1, 1 / 3]} pl={[0, 7]}>
           <p>
-            Buchen Sie jetzt Ihre exklusiven Tickets für das Auswärtsspiel gegen den Spitzenreiter VfB Homberg:
+            Buchen Sie jetzt Ihre exklusiven Tickets für das Heimspiel gegen den Spitzenreiter VfB Homberg:
           <p></p>
             Stehplatz: 5€
           <p></p>
@@ -69,7 +69,7 @@ const AboutPage = () => (
         </Box>
         <Box width={[1, 1 / 3]} pl={[0, 7]}>
           <p>
-            Buchen Sie jetzt Ihre exklusiven Tickets für das Heimspiel gegen den direkten Konkurrenten Schwarz-Weiß Essen:
+            Buchen Sie ab dem 03.05.2019 Ihre exklusiven Tickets für das Heimspiel gegen den direkten Konkurrenten Schwarz-Weiß Essen:
            <p></p>
             Stehplatz: 5€
            <p></p>
@@ -90,7 +90,7 @@ const AboutPage = () => (
         </Box>
         <Box width={[1, 1 / 3]} pl={[0, 7]}>
           <p>
-            Buchen Sie jetzt Ihre exklusiven Tickets für das Auswärtsspiel gegen den Spitzenclub Ratingen SV 04/19:
+            Buchen Sie ab dem 10.05.2019 Ihre exklusiven Tickets für das Auswärtsspiel gegen den Spitzenclub Ratingen SV 04/19:
            <p></p>
             Stehplatz: 5€
            <p></p>
@@ -110,7 +110,7 @@ const AboutPage = () => (
           <a href="mailto:moritz.bausch@cbs-mail.de?subject=Ticketanfrage">Hier Tickets anfragen</a>&nbsp; 
           Etwaige Weiterverkäufe von Tickets auf Plattformen von Drittanbietern 
           führen bei Identifizierung der Personen zum Ausschluss aus dem Verein 
-          und somit auch zu den nächsten Ticketverkäufen.
+          und somit auch zum Ausschluss aus den nächsten Ticketverkäufen.
         </P>
         <P>
           Die Verkaufphase für die Dauerkarten der Saison 2019/20 startet voraussichtlich

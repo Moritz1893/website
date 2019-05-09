@@ -81,8 +81,8 @@ const Layout = ({ children }) => {
           </Flex>
           <Flex flexDirection="column">
             <span>Version: {site.siteMetadata.version}</span>
-            <Link to="/imprint/">Imprint</Link>
-            <Link to="/data-protection/">Data Protection</Link>
+            <Link to="/imprint/">Impressum</Link>
+            <Link to="/data-protection/">Datenschutz</Link>
           </Flex>
         </Footer>
         <CookieConsent

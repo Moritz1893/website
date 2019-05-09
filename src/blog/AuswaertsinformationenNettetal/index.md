@@ -16,11 +16,11 @@ Auswärts: 2 Siege, 1 Unentschieden, 4 Niederlagen, 9:24 Tore
 
 **Blick zurück**
 
-Beim letzten Aufeinandertreffen zwischen dem VfB 03 Hilden und dem SC Union Nettetal am 14.10.2018 entschied der VfB die Partie klar für sich durch ein fulminantes 4:0 (Tore:Timo Kunzl (2), Stefan Schaumburg, Talha Demir).
+Beim letzten Aufeinandertreffen zwischen dem [Vfb 03 Hilden](http://www.vfb-hilden.de/seite/209719/1.-mannschaft.html/) und dem [SC Union Nettetal](http://www.fussball-nettetal.de/scu/teams/senioren/2016-11-03-14-41-01/news/) am 14.10.2018 entschied der VfB die Partie klar für sich durch ein fulminantes 4:0 (Tore:Timo Kunzl (2), Stefan Schaumburg, Talha Demir).
 
 **Unterstützung**
 
-Aufgrund von erhöhtem Verkehrsaufkommen zum Start des langen Osterwochenendes wird eine frühzeitige Anreise nach Nettetal empfohlen. Es gibt noch vereinzelte Gästetickets an den Tageskassen. Der VfB 03 Hilden wird wie immer tatkräftig von seinen Fans unterstützt. Bisher wurden 120 Gästetickets verkauft.
+Aufgrund von erhöhtem Verkehrsaufkommen zum Start des langen Osterwochenendes wird eine frühzeitige Anreise nach Nettetal empfohlen. Es gibt noch vereinzelte Gästetickets an den Tageskassen. Der [Vfb 03 Hilden](http://www.vfb-hilden.de/seite/209719/1.-mannschaft.html/) wird wie immer tatkräftig von seinen Fans unterstützt. Bisher wurden 120 Gästetickets verkauft.
 Bitte berücksichtigt folgende Hinweise:
 * Das Tragen und Mitführen von pyrotechnischen Gegenständen ist strengstens untersagt und wird mit lebenslangen   Stadionverboten sanktioniert.
 * Zaunfahnen sind beim SC Union Nettetal erlaubt, dagegen wird den Auswärtsfans jeweils nur ein Megaphon sowie    eine Trommel gestattet.

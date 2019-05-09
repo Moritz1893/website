@@ -9,9 +9,9 @@ import RespGrid from "../components/RespGrid"
 
 const DataProtectionPage = () => (
   <Layout>
-    <SEO title="Data Protection" />
+    <SEO title="Datenschutz" />
     <Section>
-      <H2>Data Protection</H2>
+      <H2>Datenschutz</H2>
       <P>
         <H3>This site</H3>
         We consider data protection to be very important. Therefore, the use of this website is possible without offering person-related information.

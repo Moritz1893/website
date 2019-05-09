@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `VfB 03 Hilden e.V.`,
     description: `This is a starter that is used for teaching at the Cologne Business School.`,
-    author: `Dr. Ulrich Anders`,
+    author: `Moritz Bausch`,
     version: "0.8.0",
     siteUrl: "https://gsua.de",
   },

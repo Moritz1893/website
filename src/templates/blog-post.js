@@ -20,7 +20,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <Section>
-          <Heading as="h1" fontSize={[2, 1]} mt={4}>
+          <Heading as="h1" fontSize={[2, 2]} mt={4}>
             {post.frontmatter.title}
           </Heading>
           <p>{post.frontmatter.date}</p>

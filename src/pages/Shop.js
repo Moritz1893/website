@@ -71,7 +71,7 @@ const AboutPage = () => (
         <Box width={[1, 1 / 2]} pr={[0, 3]}>
           <p>
             Die Sporttasche zeichnet sich durch hervorragenden Tragekomfort,
-            sowie universelle Einsetzbarkeit aus. Durch die einzigartige Gero-Tex
+            sowie universelle Einsetzbarkeit aus. Durch die einzigartige Gore-Tex
             Technologie übersteht diese Sporttasche auch Wind und Regen, was sie
             zu einem treuen Begleiter im Sport macht.
            <p></p>
@@ -94,11 +94,11 @@ const AboutPage = () => (
           Wenn Ihr Interesse an bestehenden Artikeln im Shop habt, schreibt mir bitte eine &nbsp;
           <a href="mailto:moritz.bausch@cbs-mail.de?subject=Fragen, Anregungen, Kritik">E-Mail</a>&nbsp;
           mit der jeweiligen Artikelnummer, Größe und Flock/Patch/Farbe abhängig vom Produkt.
-          Bitte beachtet, dass beflockte und bepatchte Trikots vom Umtausch ausgeschlossen sind
+          Bitte beachtet, dass beflockte und bepatchte Trikots vom Umtausch ausgeschlossen sind.
         </P>
         <P>
           Natürlich können Sie mit allen gängigen Bezahlformen Ihren Einkauf tätigen:
-          PayPal, Überweisung, Lastschrift, Nachnahme, Vorkasse und Kreditkarte
+          PayPal, Überweisung, Lastschrift, Nachnahme, Vorkasse und Kreditkarte.
         </P>
       </RespGrid>
     </Section>

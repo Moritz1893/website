@@ -25,7 +25,7 @@ const ImprintPage = () => (
         </Box>
         <Box>
           <H3>Credits</H3>
-          <P>...</P>
+          <P>Ich danke Herrn Anders für die Bereitstellung des Templates dieser Website, die diese einzigartige Fanseite des VfB 03 Hilden e.V. erst möglich gemacht hat.</P>
         </Box>
       </RespGrid>
     </Section>

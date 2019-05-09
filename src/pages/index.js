@@ -16,7 +16,7 @@ import breakpoints from "../theme/breakpoints"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <Figure caption="Grafik:http://www.vfb-hilden.de/">
+    <Figure caption="Grafik: http://www.vfb-hilden.de/">
       <picture>
         <source srcSet={img01_4x1} media={`(min-width: ${breakpoints.xl})`} />
         <source srcSet={img01_21x9} media={`(min-width: ${breakpoints.lg})`} />
